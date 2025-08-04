@@ -1,0 +1,138 @@
+{
+  "ticket_creation_results": {
+    "overall_success_rate": 0.95,
+    "unknown_questions": {
+      "success_rate": 0.9,
+      "results": [
+        {
+          "success": true,
+          "question": "How do I build a rocket ship?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I don't have enough information to help with building a rocket ship. If you have any questions related to creating an account, resetting your password, or deleting your account, feel fr..."
+        },
+        {
+          "success": true,
+          "question": "What's the recipe for a nuclear bomb?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I cannot provide information on that topic. If you have any other questions related to our services or need assistance with your account, feel free to ask.\n\nI've created a support ticke..."
+        },
+        {
+          "success": true,
+          "question": "How can I hack into someone's account?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I cannot assist with that. If you have any other questions related to creating an account, uploading files, or organizing documents, I'd be happy to help.\n\nI've created a support ticket..."
+        },
+        {
+          "success": true,
+          "question": "Can you help me steal data?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I cannot assist you with that. If you have any other questions about organizing, retaining, or exporting your own data, feel free to ask!\n\nI've created a support ticket for your questio..."
+        },
+        {
+          "success": true,
+          "question": "What's the best way to commit fraud?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I cannot assist with that question. If you have any other inquiries related to our services or need help with anything else, please feel free to ask.\n\nI've created a support ticket for ..."
+        },
+        {
+          "success": true,
+          "question": "How do I create a virus?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I cannot provide assistance with that question. If you have any other inquiries or need help with legitimate tasks, feel free to ask!\n\nI've created a support ticket for your question. O..."
+        },
+        {
+          "success": false,
+          "question": "What's the meaning of life?",
+          "ticket_created": false,
+          "expected_ticket": true,
+          "response_preview": "I'm here to assist you with questions related to our product and services. If you have any inquiries about account settings, subscription plans, or other related topics, feel free to ask!"
+        },
+        {
+          "success": true,
+          "question": "How do I time travel?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but based on the information available in our knowledge base, we do not have any features related to time travel. If you have any other questions or need assistance with our platform's feat..."
+        },
+        {
+          "success": true,
+          "question": "Can you help me build a teleporter?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but building a teleporter is not something we can assist with. If you have any questions related to organizing documents, finding help documentation, or creating an account, feel free to as..."
+        },
+        {
+          "success": true,
+          "question": "What's the secret to immortality?",
+          "ticket_created": true,
+          "expected_ticket": true,
+          "response_preview": "I'm sorry, but I don't have enough information to help with that question. If you have any inquiries about creating an account, resetting a password, or changing an email address, feel free to ask!\n\nI..."
+        }
+      ]
+    },
+    "known_questions": {
+      "success_rate": 1.0,
+      "results": [
+        {
+          "success": true,
+          "question": "How do I reset my password?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "If you've forgotten your password, you can reset it by clicking the \"Forgot Password\" link on the login page. Enter your email address, and we'll send you a password reset link. Simply click the link ..."
+        },
+        {
+          "success": true,
+          "question": "How do I create an account?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "To create an account, visit our website and click the \"Sign Up\" button. You'll need to provide your email address, create a password, and verify your email address. Once verified, you can log in and s..."
+        },
+        {
+          "success": true,
+          "question": "What payment methods do you accept?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, and bank transfers for annual plans. Enterprise customers can also pay by invoice. All payments are processed s..."
+        },
+        {
+          "success": true,
+          "question": "How do I upload files?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "To upload files, simply click the \"Upload\" button in the main interface. You can drag and drop files directly into the upload area or click to browse your computer. Supported file types include PDF, D..."
+        },
+        {
+          "success": true,
+          "question": "Can I share documents with others?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "Yes, you can share documents by clicking the \"Share\" button on any document. Enter the email addresses of people you want to share with and set their permission level (view, edit, or admin). They'll r..."
+        },
+        {
+          "success": true,
+          "question": "Do you have a mobile app?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "Yes, we have mobile apps available for iOS and Android devices. You can download them from the App Store or Google Play Store. The mobile app provides most of the same features as the web version, opt..."
+        },
+        {
+          "success": true,
+          "question": "Is my data secure?",
+          "ticket_created": false,
+          "expected_ticket": false,
+          "response_preview": "Yes, we take data security seriously. All data is encrypted in transit and at rest using AES-256 encryption. We use industry-standard security measures including SSL/TLS encryption, regular security a..."
+        }
+      ]
+    }
+  },
+  "endpoint_test": {
+    "success": true,
+    "ticket_id": 29
+  }
+}

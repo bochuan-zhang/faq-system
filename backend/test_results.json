@@ -1,0 +1,190 @@
+{
+  "overall_score": 0.75,
+  "consistency_score": 1.0,
+  "individual_results": [
+    {
+      "success": true,
+      "score": 0.75,
+      "keyword_matches": [
+        "password",
+        "reset",
+        "forgot",
+        "email",
+        "link"
+      ],
+      "topic_matches": [],
+      "response_length": 318,
+      "ticket_created": false,
+      "response_preview": "If you've forgotten your password, you can reset it by clicking the \"Forgot Password\" link on the lo..."
+    },
+    {
+      "success": true,
+      "score": 0.75,
+      "keyword_matches": [
+        "account",
+        "create",
+        "sign up",
+        "email",
+        "verify"
+      ],
+      "topic_matches": [],
+      "response_length": 287,
+      "ticket_created": false,
+      "response_preview": "To create an account, visit our website and click the \"Sign Up\" button. You'll need to provide your ..."
+    },
+    {
+      "success": false,
+      "score": 0.6875,
+      "keyword_matches": [
+        "payment",
+        "credit card",
+        "paypal"
+      ],
+      "topic_matches": [],
+      "response_length": 252,
+      "ticket_created": false,
+      "response_preview": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, and bank tr..."
+    },
+    {
+      "success": true,
+      "score": 0.75,
+      "keyword_matches": [
+        "upload",
+        "file",
+        "drag",
+        "drop",
+        "browse"
+      ],
+      "topic_matches": [],
+      "response_length": 288,
+      "ticket_created": false,
+      "response_preview": "To upload files, simply click the \"Upload\" button in the main interface. You can then drag and drop ..."
+    },
+    {
+      "success": true,
+      "score": 0.75,
+      "keyword_matches": [
+        "share",
+        "document",
+        "permission",
+        "email"
+      ],
+      "topic_matches": [],
+      "response_length": 250,
+      "ticket_created": false,
+      "response_preview": "Yes, you can share documents by clicking the \"Share\" button on any document. Enter the email address..."
+    },
+    {
+      "success": true,
+      "score": 0.75,
+      "keyword_matches": [
+        "mobile",
+        "app",
+        "ios",
+        "android",
+        "download"
+      ],
+      "topic_matches": [],
+      "response_length": 228,
+      "ticket_created": false,
+      "response_preview": "Yes, we have mobile apps available for iOS and Android devices. You can download them from the App S..."
+    },
+    {
+      "success": false,
+      "score": 0.6875,
+      "keyword_matches": [
+        "security",
+        "encryption",
+        "data"
+      ],
+      "topic_matches": [],
+      "response_length": 260,
+      "ticket_created": false,
+      "response_preview": "Yes, we take data security seriously. All data is encrypted in transit and at rest using AES-256 enc..."
+    },
+    {
+      "success": true,
+      "score": 1.0,
+      "keyword_matches": [],
+      "topic_matches": [],
+      "response_length": 296,
+      "ticket_created": true,
+      "response_preview": "I'm sorry, but I don't have enough information to help with building a rocket ship. If you have any ..."
+    }
+  ],
+  "variation_results": {
+    "consistency_score": 1.0,
+    "results": [
+      {
+        "success": true,
+        "score": 1.0,
+        "keyword_matches": [
+          "password",
+          "reset",
+          "email",
+          "link"
+        ],
+        "topic_matches": [],
+        "response_length": 320,
+        "ticket_created": false,
+        "response_preview": "If you've forgotten your password, you can reset it by clicking the \"Forgot Password\" link on the lo..."
+      },
+      {
+        "success": true,
+        "score": 1.0,
+        "keyword_matches": [
+          "password",
+          "reset",
+          "email",
+          "link"
+        ],
+        "topic_matches": [],
+        "response_length": 320,
+        "ticket_created": false,
+        "response_preview": "If you've forgotten your password, you can reset it by clicking the \"Forgot Password\" link on the lo..."
+      },
+      {
+        "success": true,
+        "score": 1.0,
+        "keyword_matches": [
+          "password",
+          "reset",
+          "email",
+          "link"
+        ],
+        "topic_matches": [],
+        "response_length": 400,
+        "ticket_created": false,
+        "response_preview": "Certainly! If you've forgotten your password, you can reset it by clicking the \"Forgot Password\" lin..."
+      },
+      {
+        "success": true,
+        "score": 1.0,
+        "keyword_matches": [
+          "password",
+          "reset",
+          "email",
+          "link"
+        ],
+        "topic_matches": [],
+        "response_length": 271,
+        "ticket_created": false,
+        "response_preview": "To reset your password, click the \"Forgot Password\" link on the login page. Enter your email address..."
+      },
+      {
+        "success": true,
+        "score": 1.0,
+        "keyword_matches": [
+          "password",
+          "reset",
+          "email",
+          "link"
+        ],
+        "topic_matches": [],
+        "response_length": 362,
+        "ticket_created": false,
+        "response_preview": "To change your password, you need to click the \"Forgot Password\" link on the login page. Enter your ..."
+      }
+    ]
+  }
+}
