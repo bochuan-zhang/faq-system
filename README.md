@@ -62,12 +62,7 @@ cd backend
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file with your OpenAI API key:
-```
-OPENAI_API_KEY=your_openai_api_key_here
-```
-
-4. Start the backend server:
+3. Start the backend server:
 ```bash
 python main.py
 ```
